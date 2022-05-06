@@ -4,6 +4,8 @@ Purpose of this repo is to demonstrate psd2 JWS signing in PHP.
 Command `./run.sh bog:consent` requests conset from BOG and dumps returned data.
 Project should be used as an example, and is not intended for production use.
 
+### Quick start:
+
 - `composer install`
 - `cp .env.example .env`
 - `vi .env`
