@@ -14,3 +14,13 @@ To convert certificates from pfx to pem use:
 
 Put certificates in `certs` directory.
 
+.env file contains:
+```
+THEIRCERT=.pem
+OURCERT=.pem
+CERTPASSPHRASE=
+PROXYPORT=
+PROXY=
+PROXYUSERPWD=
+REDIRECTURL=
+```
